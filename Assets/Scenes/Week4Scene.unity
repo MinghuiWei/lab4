@@ -242,7 +242,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c86c20d6b57c44944b29bc940d2c5e3f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  redobj: {fileID: 3682478407544319528, guid: 236fdd54f7d494186b5564908f72cbfe, type: 3}
+  redObj: {fileID: 3682478407544319528, guid: 236fdd54f7d494186b5564908f72cbfe, type: 3}
+  blueObj: {fileID: 1088928719538643805, guid: 50f8c9d5924f74a5785a31211acfd30b, type: 3}
 --- !u!4 &707173157
 Transform:
   m_ObjectHideFlags: 0
